@@ -5,6 +5,9 @@ Este repositorio contiene una colección de mapas conceptuales relacionados con 
 El contenido de este repositorio tiene un enfoque educativo y está dirigido a estudiantes, investigadores y profesionales interesados en la administración de tierras, catastro, registro de la propiedad y modelado de información geoespacial.
 
 📂 Contenido del Repositorio
+
 📌 Mapas conceptuales en formato .cmap, exportables a otros formatos como .png y .pdf.
+
 📌 Diagramas explicativos de los principales componentes del LADM.
+
 📌 Representaciones gráficas de la estructura y aplicación de la norma ISO 19152:2012.
